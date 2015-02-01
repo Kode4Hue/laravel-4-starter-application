@@ -124,6 +124,11 @@ return array(
 		'Illuminate\Workbench\WorkbenchServiceProvider',
             
                 /*
+                 * Other Additional Third Party Service Providers
+                 */
+                'Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider',
+            
+                /*
                  * Custom Service Providers
                  */
                 'App\Providers\ApplicationServiceProvider',
