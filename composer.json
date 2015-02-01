@@ -17,7 +17,8 @@
         "fzaninotto/faker": "1.5.*@dev",
         "xethron/migrations-generator": "dev-master",
         "vinelab/http": "dev-master",
-        "way/generators": "~2.0"
+        "way/generators": "~2.0",
+        "barryvdh/laravel-ide-helper": "1.11.*@dev"
     },
     "autoload": {
         "classmap": [
